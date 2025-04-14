@@ -1,0 +1,28 @@
+h1, h2, h3 {
+    color: #FF00FF;
+}
+
+h1 {
+text-align: center;
+text-transform: uppercase;
+}
+
+h3{
+text-align: center;
+}
+
+body{
+background-color: #EDE8;
+}
+
+h3{
+text-decoration: underline;
+}
+
+img{
+    width: 200px;
+    margin: auto;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+}
